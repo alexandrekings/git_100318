@@ -77,6 +77,8 @@ footer img{
     display: inline-block;
     padding-bottom: 2em;
 }
+
+/*VER MAS*/
 .vermas {
     background-color: #f35524;
     color: white;
@@ -84,11 +86,26 @@ footer img{
     margin: 1em 0em;
 }
 .vermas:hover{
-	  background-color: #862000;
+	background-color: #862000;
 }
 .grande{
 	width: 50%;
     float: left;
     margin-right: 2em;
     margin-bottom: .5em;
+}
+
+/*LEER MAS*/
+.compartir {
+	height: 100%;
+    padding-top: 50%;
+    text-align: center;
+    margin:0 auto;
+}
+.compartir img{
+	width: 50%
+}
+
+.topmargin{
+	margin-top: 1em;
 }
