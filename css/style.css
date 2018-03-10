@@ -7,22 +7,63 @@ hr{
 	    margin: 20px 0
 }
 h1{
-	font-size: 63px;
-	padding-top: 1em
+	font-size: 40px;
+	font-family: 'Lobster', sans-serif;
+	margin: .5em .5em .5em 0em;
+	color: #c1640f;
 }
 h2{
-	color: red;
 	font-size:34px;
 	padding-bottom: 20px;
 }
 p {
     margin-bottom:  1em;
+    padding-bottom: 1em;
 
 }
 a{
 	text-decoration: none;
 }
+section{
+	padding-top: 1em;
+	padding-bottom: 1em;
+}
 
-/*main*/
+footer img{
+	width: 5%;
+	margin:1em;
+}
+/*generales*/
+.main{
+    background-color: #fff7f0;
 
+}
+.maintwo{
+	background-color:  #ffb370;
+}
+.img-responsive{
+	width: 100%
+}
 
+.center{
+	margin: 0 auto;
+	text-align: center;
+}
+.whitetitle{
+	color: #ffffff
+}
+.tarjeta{
+	background-color: white;
+    padding: 1em;
+    display: inline-block;
+    padding-bottom: 2em;
+}
+.vermas {
+    background-color: #f35524;
+    color: white;
+    padding: 1em;
+    margin: 1em 0em;
+}
+.vermas:hover{
+	  background-color: #862000;
+}
